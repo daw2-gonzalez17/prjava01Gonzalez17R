@@ -17,6 +17,7 @@ public class Prjava01Gonzalez17R {
             bw.write("  </head>");bw.newLine();
             bw.write("  <body>");bw.newLine();
             bw.write("    Nova p&agrave;gina web de Gonzalez17R");bw.newLine();
+            bw.write("    DAW2 UF4 Pr&actica 2");bw.newLine();
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
